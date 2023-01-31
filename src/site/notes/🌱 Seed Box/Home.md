@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/seed-box/home/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/seed-box/home/","dgPassFrontmatter":true}
 ---
